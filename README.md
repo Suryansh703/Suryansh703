@@ -2,21 +2,20 @@
 
 **A passionate AI & Machine Learning Enthusiast | Full-Stack Learner | Aspiring Software Engineer & Business Analyst from India 🇮🇳**
 
-📧 **Email Me 👉** *[your-email@example.com](mailto:ssuryansh703@gmail.com)* for collaborations, internships, freelance opportunities, or exciting tech discussions. 😊
+📧 **Email Me 👉** *[ssuryansh703@gmail.com](mailto:ssuryansh703@gmail.com)* for collaborations, internships, freelance opportunities, or exciting tech discussions. 😊
 
 * 🔭 **I'm currently working on:** AI-powered Healthcare Appointment Management System (MERN Stack)
 * 🌱 **I'm currently learning:** Data Structures & Algorithms (Java), System Design, Machine Learning, SQL, and Business Analytics
 * 👯 **I'm looking to collaborate on:** AI/ML, Full-Stack Development, Open Source, and Data Analytics projects
 * 🤔 **I'm looking for help with:** Advanced System Design, Cloud Deployment, and Scalable AI Applications
 * 💬 **Ask me about:** Java, DSA, Machine Learning, MERN Stack, Git & GitHub, FastAPI, and AI Projects
-* 📫 **How to reach me:** *[your-email@example.com](mailto:ssuryansh703@gmail.com)*
+* 📫 **How to reach me:** *[ssuryansh703@gmail.com](mailto:ssuryansh703@gmail.com)*
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** I enjoy turning real-world problems into AI-powered solutions, and I'm always excited to learn something new every day!
 
 ## 🚀 Featured Projects
 
 * 🏥 **Healthcare Appointment Management System** — MERN Stack application with secure authentication, appointment booking, and doctor-patient management.
-* 😴 **Driver Drowsiness Detection System** — Real-time eye and facial landmark detection using OpenCV, Dlib, and Python.
 * 🔐 **AI-Based Cyber Attack Prediction & Prevention System** — Machine Learning model for detecting network intrusions using cybersecurity datasets.
 * 🤖 **Handwritten Digit Recognition** — Deep Learning model trained on the MNIST dataset.
 * 👁️ **iCursor** — Eye-controlled cursor movement system using Computer Vision.
